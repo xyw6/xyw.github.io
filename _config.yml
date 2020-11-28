@@ -1,7 +1,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "口-口"
-title_separator          : "-"
+title_separator          : " "
 name                     : &name "XiangYu Wang"
 description              : &description "Personal Website"
 url                      : https://zemin.life
