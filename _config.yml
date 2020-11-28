@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "口-口"
+title                    : "+1s"
 title_separator          : " "
 name                     : &name "XiangYu Wang"
 description              : &description "Personal Website"
@@ -74,7 +74,7 @@ analytics:
 # Site Author
 author:
   name             : "XiangYu Wang"
-  avatar           : 
+  avatar           : "ha.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : 
   employer         :
