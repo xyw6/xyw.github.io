@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "XiangYu Wang"
 title_separator          : "-"
 name                     : &name "XiangYu Wang"
-description              : &description "personal description"
+description              : &description "XiangYu's Personal Website"
 url                      : https://zemin.life
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
